@@ -1,13 +1,18 @@
 title: Hexo NexT 开启 emoji
 author: 冯平宇
-date: 2018-12-18 16:54:09
 tags:
+  - hexo
+categories:
+  - 安装教程
+date: 2018-12-18 16:54:00
 ---
 原始链接：http://kinboyw.github.io/2018/10/29/Hexo-NexT-开启-emoji/
 
 Hexo 开启欢乐的 emoji 之旅 💛
 
 Hexo 默认的 markdown 渲染引擎不支持将 Github emoji 渲染到静态的 html 页面中，我们换一个支持 emoji 的引擎，再增加一个 emoji 插件即可.
+
+<!-- more -->
 
 ##### 安装
 命令行如下：
